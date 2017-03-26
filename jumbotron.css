@@ -1,0 +1,30 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+  padding-bottom: 20px;
+  font-family: 'PT Sans',"HelveticaNeue","Helvetica Neue",Helvetica,Arial,Hiragino Sans GB,Microsoft YaHei,sans-serif !important;
+}
+
+.jumbotron{
+	background-image: url(http://www.bpteach.com/wp-content/uploads/2016/08/Header.jpg);
+	background-size:cover;
+	color:white;
+	padding-top: 130px;
+    padding-bottom: 130px;
+}
+
+.jumbotron h1 {
+	font-size: 45px;
+}
+.btn-primary, .btn-primary:hover{
+	color: #232b2d;
+    background: #00f9a5;
+    border-color: #00f9a5;
+}
+
+.glyphicon{
+	font-size:40px;
+}
+
+.feature{
+	margin-bottom: 4em;
+}
